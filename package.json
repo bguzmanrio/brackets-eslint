@@ -31,7 +31,7 @@
   "dependencies": {
     "brackets-inspection-gutters": "^0.2.7",
     "enable-global-packages": "latest",
-    "eslint": "<3.0.0"
+    "eslint": ">=3.4.0"
   },
   "devDependencies": {
     "@types/jquery": "1.10.31",
